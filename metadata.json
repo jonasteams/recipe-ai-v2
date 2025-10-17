@@ -1,0 +1,5 @@
+{
+  "name": "Recipe AI",
+  "description": "An AI-powered recipe application that generates recipes like Cookidoo, with support for multiple languages, portion adjustments, and different cooking methods (Standard and Thermomix).",
+  "requestFramePermissions": []
+}
